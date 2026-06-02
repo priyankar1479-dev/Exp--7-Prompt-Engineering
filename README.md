@@ -56,7 +56,7 @@ Step 7: Compare the Results
 Compare original and generated images.
 Document differences and improvements.
 
-Output:
+Output:https://drive.google.com/file/d/1kRxpf54J8jN3YWJ5zX4ofU8BhJ0Ob9Ek/view?usp=sharing
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
